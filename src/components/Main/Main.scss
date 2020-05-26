@@ -1,0 +1,17 @@
+.myButtons{
+    button:hover{
+        background-color: #ffc000;
+        color: black;
+    }
+    button{
+        margin: 1%;
+        margin-top: 3em;
+        background-color: #303030;
+        border: 0;
+        height: 2.5em;
+        border-radius: 15px;
+        width: 30%;
+        font-weight: bold;
+        color: whitesmoke;
+    }
+}

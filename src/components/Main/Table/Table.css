@@ -1,0 +1,20 @@
+table td:hover {
+  color: #ffc000;
+}
+
+table th {
+  color: #ffc000;
+  font-weight: bold;
+  text-align: left;
+}
+
+table td {
+  padding-left: 2%;
+  color: whitesmoke;
+  text-align: left;
+}
+
+table tr {
+  margin-top: 5%;
+}
+/*# sourceMappingURL=Table.css.map */

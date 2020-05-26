@@ -1,0 +1,26 @@
+table{
+    margin-top: 3em;
+    td:hover{
+        color: #ffc000;
+    }
+    th{
+        color:#ffc000;
+        font-weight: bold;
+        text-align: left;
+    }
+    td{
+        padding-left: 2%;
+        color: whitesmoke;
+        text-align: left;
+    }
+    tr{
+        margin-top: 5%;
+    }
+}
+.myAlert{
+    p{
+        padding-top: 1em;
+        font-size: 2em;
+        color: red;
+    }
+}

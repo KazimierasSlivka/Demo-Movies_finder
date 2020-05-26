@@ -1,0 +1,14 @@
+.container {
+  background-color: #202020;
+}
+
+.container h1 {
+  font: brown;
+}
+
+.container h1 span {
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 1.2em;
+  color: #ffc000;
+}
+/*# sourceMappingURL=Header.css.map */

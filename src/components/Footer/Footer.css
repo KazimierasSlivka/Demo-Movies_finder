@@ -1,0 +1,13 @@
+.myFooter {
+  border-top: 1px solid #ffc000;
+  width: 100%;
+}
+
+.myFooter p {
+  color: whitesmoke;
+}
+
+.myFooter span {
+  color: #ffc000;
+}
+/*# sourceMappingURL=Footer.css.map */
